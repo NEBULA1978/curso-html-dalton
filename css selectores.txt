@@ -1,0 +1,7 @@
+* selecciono todos elementos del body
+
+de tipo:por etiqueta:
+h1,h2,button,input,p,etc
+
+por clases:
+.titulo-h2
